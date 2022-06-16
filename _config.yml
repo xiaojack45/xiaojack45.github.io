@@ -1,9 +1,9 @@
 # Setup
-title: ice cubes
+title: 阳光欢乐的灿灿
 description: 阳光欢乐的灿灿的小站
 url: https://can1425.github.io
 avatar: /imgs/avatar.png
-paginate: 5
+paginate: 0
 permalink: pretty
 cover_image: /imgs/bg.jpg
 
@@ -35,7 +35,7 @@ logo: logo.png
 social:
   name: gaopeng
   links:
-    - https://github.com/gaopengk
+    - https://github.com/can1425
 google_site_verification: xxxxx
 lang: cn
 
@@ -53,6 +53,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: gaopeng
+  name: Can1425
   url: https://github.com/can1425/
   email: myqf1425@126.com
