@@ -1,8 +1,8 @@
 # Setup
 title: ice cubes
-description: gaopeng的小站
-url: https://gaopengk.github.io
-avatar: /imgs/avatar.jpg
+description: 阳光欢乐的灿灿的小站
+url: https://can1425.github.io
+avatar: /imgs/avatar.png
 paginate: 5
 permalink: pretty
 cover_image: /imgs/bg.jpg
@@ -54,5 +54,5 @@ sass:
 # Specify the author for blog posts
 author:
   name: gaopeng
-  url: https://github.com/gaopengk/
-  email: loopbacks@yeah.net
+  url: https://github.com/can1425/
+  email: myqf1425@126.com
