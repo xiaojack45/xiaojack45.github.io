@@ -1,5 +1,5 @@
 # Setup
-title: 阳光欢乐的灿灿
+title: 路漫漫其修远兮，吾将上下而求索
 description: 阳光欢乐的灿灿的小站
 url: https://can1425.github.io
 avatar: /imgs/avatar.png
@@ -29,13 +29,13 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 weibo:
-  username: loopbacks
-  card: summary
-logo: logo.png
+  username: 
+  card: 
+logo: 
 social:
   name: 阳光欢乐的灿灿
   links:
-    - https://github.com/can1425
+    - https://github.com/Can1425
 google_site_verification: xxxxx
 lang: cn
 
@@ -54,5 +54,5 @@ sass:
 # Specify the author for blog posts
 author:
   name: 阳光欢乐的灿灿
-  url: https://github.com/can1425/
+  url: https://github.com/Can1425/
   email: myqf1425@126.com
