@@ -1,11 +1,11 @@
 # Setup
 title: 仰望星空，脚踏实地
-description: 阳光欢乐的灿灿的小站
+description: 惟灿的小站
 url: https://can1425.github.io
 avatar: /imgs/IMG_20220619_122043.png
 paginate: 5
 permalink: pretty
-cover_image: /imgs/a0f9846cbd06ea42999b6dd32c2a012e.jpg
+cover_image: /imgs/01a8305a1f8190a80120908dcbd3a0.jpg@1280w_1l_2o_100sh.jpg
 
 # Gems
 plugins:
