@@ -1,5 +1,5 @@
 # Setup
-title: 月黑见渔灯，孤光一点萤
+title: 微微风簇浪，散作满河星
 description: 惟灿的小站
 url: https://can1425.github.io
 avatar: /imgs/IMG_20220619_122043.png
@@ -33,7 +33,7 @@ weibo:
   card: 
 logo: 
 social:
-  name: 阳光欢乐的灿灿
+  name: Can1425
   links:
     - https://github.com/Can1425
 google_site_verification: xxxxx
@@ -53,6 +53,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: 阳光欢乐的灿灿
+  name: Can1425
   url: https://github.com/Can1425/
   email: myqf1425@126.com
