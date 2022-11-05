@@ -56,3 +56,29 @@ author:
   name: Can1425
   url: https://github.com/Can1425/
   email: myqf1425@126.com
+  
+  # 侧边栏
+
+sidebar: right
+
+# 侧边栏启用哪些模块
+
+widgets:
+
+  - board # 公告
+
+  - category # 分类
+
+  - tag # 标签
+
+  - tagcloud # 标签云
+
+  - archive # 归档
+
+  - recent_posts # 最近文章
+
+# 归档列表的展示方式
+
+archive_type: 'monthly' # 归档方式:  yearly | monthly
+
+show_count: true # 显示每个归档的文章总数
