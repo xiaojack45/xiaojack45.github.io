@@ -52,40 +52,36 @@ layout: default
 </aside>
 {% endif %}
 
+#评论
+
 <head>
 
-  <!-- ... -->
+    ..
 
-  <script src="https://unpkg.com/@waline/client@v2/dist/waline.js"></script>
+    <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
 
-  <link
-
-    rel="stylesheet"
-
-    href="https://unpkg.com/@waline/client@v2/dist/waline.css"
-
-  />
-
-  <!-- ... -->
+    ...
 
 </head>
 
 <body>
 
-  <!-- ... -->
+    ...
 
-  <div id="waline"></div>
+    <div id="vcomments"></div>
 
-  <script>
+    <script>
 
-    Waline.init({
+        new Valine({
 
-      el: '#waline',
+            el: '#vcomments',
 
-      serverURL: 'https://can1425.ouyanghongqian.top',
+            appId: 'WFAPM0dbVXrmMAITnqcNtb0R-MdYXbMMI',
 
-    });
+            appKey: 'FwW3KrpMasaba31BwptfvVP1'
 
-  </script>
+        })
+
+    </script>
 
 </body>
