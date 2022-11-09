@@ -57,24 +57,4 @@ author:
   url: https://github.com/Can1425/
   email: myqf1425@126.com
   
-<script>
 
-    var valine = new Valine();
-
-    valine.init({
-
-        el:'#comment',
-
-        appId:'WFAPM0dbVXrmMAITnqcNtb0R-MdYXbMMI',
-
-        appKey:'FwW3KrpMasaba31BwptfvVP1',
-
-        notify:true,
-
-        path: '{{ page.url }}',
-
-        placeholder:'请留下你文明的足迹'
-
-    })
-
-</script>
