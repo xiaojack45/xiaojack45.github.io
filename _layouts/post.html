@@ -39,7 +39,7 @@ layout: default
 {% if site.related_posts != empty %}
 <aside class="related">
   <h2>Related posts</h2>
-  <ul class="related-posts">
+  <ul class="更多文章">
     {% for post in site.related_posts limit:3 %}
       <li>
         <a href="{{ post.url | relative_url }}">
@@ -52,10 +52,36 @@ layout: default
 </aside>
 {% endif %}
 
-#评论
+#评论区
 
-<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<head>
+
+    ..
 
     <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
 
-    <div id="comment"></div>
+    ...
+
+</head>
+
+<body>
+
+    ...
+
+    <div id="vcomments"></div>
+
+    <script>
+
+        new Valine({
+
+            el: '#vcomments',
+
+            appId: 'WFAPM0dbVXrmMAITnqcNtb0R-MdYXbMMI',
+
+            appKey: 'FwW3KrpMasaba31BwptfvVP1'
+
+        })
+
+    </script>
+
+</body>
