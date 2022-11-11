@@ -37,8 +37,8 @@ layout: default
 </article>
 
 {% if site.related_posts != empty %}
-<aside class="related">
-  <h2>Related posts</h2>
+<aside class="更多">
+  <h2>更多文章</h2>
   <ul class="更多文章">
     {% for post in site.related_posts limit:3 %}
       <li>
@@ -54,34 +54,20 @@ layout: default
 
 #评论区
 
-<head>
+<!--PC版-->
 
-    ..
+<div id="SOHUCS" ></div>
 
-    <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+<script charset="utf-8" type="text/javascript" src="https://cy-cdn.kuaizhan.com/upload/changyan.js" ></script>
 
-    ...
+<script type="text/javascript">
 
-</head>
+window.changyan.api.config({
 
-<body>
+appid: 'cywmYPaGi',
 
-    ...
+conf: 'prod_63a4c98240dec0ed23762d1e55f9ba36'
 
-    <div id="vcomments"></div>
+});
 
-    <script>
-
-        new Valine({
-
-            el: '#vcomments',
-
-            appId: 'WFAPM0dbVXrmMAITnqcNtb0R-MdYXbMMI',
-
-            appKey: 'FwW3KrpMasaba31BwptfvVP1'
-
-        })
-
-    </script>
-
-</body>
+</script>
