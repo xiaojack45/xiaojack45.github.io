@@ -52,25 +52,6 @@ layout: default
 </aside>
 {% endif %}
 
-function smoothScrollToTop() {
-
-    let Y_TopValve = (window.pageYOffset || document.body.scrollTop || document.documentElement.scrollTop);
-
-    if (Y_TopValve > 1) {
-
-        window.requestAnimationFrame(smoothScrollToTop);
-
-        scrollTo(0, Math.floor(Y_TopValve * 0.85));
-
-    } else {
-
-        scrollTo(0, 0);
-
-    }
-
-}
-
-document.getElementById('↑').
 
 <!--WAP版-->
 
