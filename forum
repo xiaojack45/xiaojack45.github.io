@@ -1,0 +1,27 @@
+---
+
+layout: default
+
+title: "Can1425-综合讨论区"
+
+permalink: forum.html
+
+---
+
+<div class="page">
+
+  <h1 class="page-title">Can1425-综合讨论区"
+
+  <p class="lead">一起来讨论吧:</p>
+
+</div>
+
+<!--WAP版-->
+
+<div id="SOHUCS" ></div>
+
+<script id="changyan_mobile_js" charset="utf-8" type="text/javascript" 
+
+src="https://cy-cdn.kuaizhan.com/upload/mobile/wap-js/changyan_mobile.js?client_id=cywmYPaGi&conf=prod_63a4c98240dec0ed23762d1e55f9ba36">
+
+</script>
