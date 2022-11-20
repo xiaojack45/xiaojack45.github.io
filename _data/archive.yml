@@ -1,9 +1,9 @@
-- type: /
+- type: home
   title: 首页
   url: /
 - type: forum
   title: 论坛
-  url: /forum/
+  url: /forum.html/
 - type: tags
   title: 标签
   url: /tags/
