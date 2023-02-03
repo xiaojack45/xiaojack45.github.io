@@ -1,8 +1,8 @@
 # Setup
-title: 心若向阳,无畏冰霜
-description: Can1425的小站
-url: https://can1425.github.io
-avatar: /imgs/75c5c66d17e14f7c8ff91c1b1a0843e6.jpg
+title: 向阳而生，放飞梦想
+description: 小Jack的小站
+url: https://xiaojack67.github.io
+avatar: https://cdn.staticaly.com/gh/Can1425/image-Can1425@master/lQDPDhvZq316mlnNAgDNAgCwTMur5gU5cW0DNU20ukBNAA_512_512.35cnrncyy7a0.webp
 paginate: 5
 permalink: pretty
 cover_image: /imgs/6f302309aa0aca0f4bcc7336e828e13d.jpeg
@@ -33,9 +33,9 @@ weibo:
   card: 
 logo: 
 social:
-  name: Can1425
+  name: xiaojack67
   links:
-    - https://github.com/Can1425
+    - https://github.com/xiaojack67
 google_site_verification: xxxxx
 lang: cn
 
@@ -53,8 +53,8 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Can1425
-  url: https://github.com/Can1425/
-  email: myqf1425@126.com
+  name: xiaojack67
+  url: https://github.com/xiaojack67/
+  email: dingguanjie676767@163.com
   
 
